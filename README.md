@@ -1,6 +1,6 @@
 # The Quiet Observer 🏛️
 
-A minimalist, bilingual (English & Korean) philosophy blog designed for deep reflection and quiet reading.
+A minimalist, philosophy blog designed for deep reflection and quiet reading.
 
 ## 🚀 Getting Started
 
@@ -39,7 +39,3 @@ A minimalist, bilingual (English & Korean) philosophy blog designed for deep ref
    python3 build.py
    ```
    This updates `posts.json`, which the frontend uses to list and load content.
-
----
-
-© 2026 The Quiet Observer.
