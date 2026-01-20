@@ -3,8 +3,19 @@
     --text-color: #2d2d2d;
     --accent-color: #666;
     --hover-bg: #f0efe9;
-    --font-serif: "Merriweather", "Georgia", "Malgun Gothic", serif;
-    --font-sans: "Helvetica Neue", "Arial", sans-serif;
+    --border-color: #eee;
+    --btn-border: #ddd;
+    --font-serif: "Merriweather", "Noto Serif KR", serif;
+    --font-sans: "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+}
+
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --accent-color: #999;
+    --hover-bg: #2d2d2d;
+    --border-color: #333;
+    --btn-border: #444;
 }
 
 /* Mobile Optimizations */
@@ -18,62 +29,86 @@
     }
 
     main {
-        padding: 30px 20px;
+        padding: 20px 15px;
+    }
+
+    .post-list {
+        gap: 20px;
     }
 
     .post-item {
         padding: 20px;
+        background-color: var(--hover-bg);
+        border-color: var(--border-color);
+    }
+
+    .post-item:active {
+        background-color: var(--bg-color);
+        transform: scale(0.98);
     }
 
     .post-title {
-        font-size: 1.4rem;
+        font-size: 1.35rem;
+        margin-bottom: 10px;
+        line-height: 1.4;
     }
 
     article h1 {
-        font-size: 1.8rem;
+        font-size: 1.7rem;
+        line-height: 1.4;
     }
 
     article p {
         font-size: 1.05rem;
+        letter-spacing: -0.01em;
     }
 
     /* Improved touch targets for mobile */
-    nav button {
-        padding: 8px 20px;
+    nav button, #theme-toggle {
+        padding: 10px 22px;
         margin: 5px;
+        font-size: 0.9rem;
     }
 
     .back-btn {
-        padding: 10px 0;
+        padding: 12px 0;
         margin-bottom: 20px;
+        font-size: 1rem;
     }
 }
 
 /* Base styles refinement */
 * {
     -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
 }
 
 body {
     background-color: var(--bg-color);
     color: var(--text-color);
-    font-family: var(--font-serif);
-    line-height: 1.8;
+    font-family: var(--font-sans); /* Default to sans-serif for better readability */
+    line-height: 1.85;
     margin: 0;
     padding: 0;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.02em;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 header {
     padding: 60px 20px 40px;
     text-align: center;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color);
+}
+
+h1, .post-title, article h1 {
+    font-family: var(--font-serif);
+    font-weight: 700;
 }
 
 h1 {
     font-size: 2.2rem;
-    font-weight: 700;
     margin: 0 0 10px;
     letter-spacing: -0.5px;
     cursor: pointer;
@@ -91,22 +126,58 @@ nav {
     margin-top: 25px;
     font-family: var(--font-sans);
     font-size: 0.85rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
 }
 
-nav button {
+nav button, #theme-toggle {
     background: none;
-    border: 1px solid #ddd;
+    border: 1px solid var(--btn-border);
     padding: 6px 16px;
     cursor: pointer;
     color: var(--accent-color);
-    margin: 0 4px;
+    margin: 0;
     border-radius: 20px;
     transition: all 0.2s;
+    font-family: inherit;
 }
 
-nav button:hover, nav button.active {
+#theme-toggle {
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    margin-left: 12px;
+    position: relative;
+}
+
+#theme-toggle::before {
+    content: "";
+    position: absolute;
+    left: -14px;
+    top: 20%;
+    height: 60%;
+    width: 1px;
+    background-color: var(--btn-border);
+}
+
+@media (hover: hover) {
+    nav button:hover, #theme-toggle:hover {
+        border-color: var(--text-color);
+        color: var(--text-color);
+    }
+}
+
+nav button.active {
     border-color: var(--text-color);
     color: var(--text-color);
+    background-color: var(--hover-bg);
 }
 
 main {
@@ -124,18 +195,29 @@ main {
 }
 
 .post-item {
+    display: block;
+    text-decoration: none;
+    color: inherit;
     cursor: pointer;
     padding: 30px;
     border: 1px solid transparent;
-    transition: all 0.2s;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
     border-radius: 8px;
+    background-color: transparent;
 }
 
-.post-item:hover {
-    background-color: #fff;
-    border-color: #eee;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.03);
-    transform: translateY(-2px);
+@media (hover: hover) {
+    .post-item:hover {
+        background-color: var(--hover-bg);
+        border-color: var(--border-color);
+        box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+        transform: translateY(-2px);
+    }
+}
+
+.post-item:active {
+    background-color: var(--hover-bg);
+    transform: translateY(0);
 }
 
 .post-date {
@@ -160,6 +242,10 @@ main {
 }
 
 /* Single Post Styles */
+#post-content {
+    font-family: var(--font-serif);
+}
+
 .back-btn {
     display: inline-block;
     margin-bottom: 40px;
@@ -193,7 +279,7 @@ article h6 {
     margin-bottom: 50px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color);
     padding-bottom: 20px;
 }
 
@@ -202,14 +288,24 @@ article p {
     font-size: 1.1rem;
 }
 
+article p, article li {
+    font-family: var(--font-serif);
+}
+
+/* Use sans-serif for UI elements even inside article */
+article code, article pre, .meta {
+    font-family: var(--font-sans);
+}
+
 strong, b {
     font-weight: 700;
-    color: #1a1a1a;
+    color: inherit;
 }
 
 em, i {
     font-style: italic;
-    color: #4a4a4a;
+    color: inherit;
+    opacity: 0.9;
 }
 
 ul, ol {
@@ -227,7 +323,7 @@ blockquote {
     margin: 40px 0;
     padding-left: 25px;
     font-style: italic;
-    color: #444;
+    color: var(--accent-color);
 }
 
 footer {
@@ -236,7 +332,13 @@ footer {
     font-family: var(--font-sans);
     font-size: 0.8rem;
     color: var(--accent-color);
-    border-top: 1px solid #eee;
+    border-top: 1px solid var(--border-color);
+}
+
+#loading {
+    text-align: center;
+    color: var(--accent-color);
+    margin-top: 50px;
 }
 
 #loading {

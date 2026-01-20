@@ -88,18 +88,27 @@ function renderList(container, texts) {
     config.posts.forEach(post => {
         // Fallback for title if translation missing
         const title = post.title[currentLang] || post.title['en'];
+        const url = `?lang=${currentLang}&post=${post.id}`;
         
         html += `
-            <div class="post-item" onclick="updateState('${currentLang}', '${post.id}')">
+            <a href="${url}" class="post-item" data-id="${post.id}">
                 <div class="post-date">${post.date}</div>
                 <h2 class="post-title">${title}</h2>
                 <div class="read-more">${texts.readMore} &rarr;</div>
-            </div>
+            </a>
         `;
     });
     
     html += `</div>`;
     container.innerHTML = html;
+
+    // Attach click events to post items
+    container.querySelectorAll('.post-item').forEach(item => {
+        item.addEventListener('click', (e) => {
+            e.preventDefault();
+            updateState(currentLang, item.dataset.id);
+        });
+    });
 }
 
 async function loadPost(postId, container, texts) {
@@ -134,15 +143,54 @@ async function init() {
         console.error("Failed to load posts.json", e);
     }
 
-    // 2. Initial Render
+    // 2. Theme Initialization
+    initTheme();
+
+    // 3. Initial Render
     currentLang = getLanguage();
     const postId = getPostId();
     render(postId);
 
-    // 3. Event Listeners
+    // 4. Event Listeners
     document.getElementById('site-title').addEventListener('click', () => updateState(currentLang, null));
     document.getElementById('btn-en').addEventListener('click', () => updateState('en', getPostId()));
     document.getElementById('btn-ko').addEventListener('click', () => updateState('ko', getPostId()));
+    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+}
+
+function initTheme() {
+    const savedTheme = getCookie('theme');
+    if (savedTheme) {
+        document.documentElement.setAttribute('data-theme', savedTheme);
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+}
+
+function toggleTheme() {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    
+    document.documentElement.setAttribute('data-theme', newTheme);
+    setCookie('theme', newTheme, 365);
+}
+
+function setCookie(name, value, days) {
+    const date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    const expires = "expires=" + date.toUTCString();
+    document.cookie = name + "=" + value + ";" + expires + ";path=/;SameSite=Strict";
+}
+
+function getCookie(name) {
+    const nameEQ = name + "=";
+    const ca = document.cookie.split(';');
+    for(let i=0; i < ca.length; i++) {
+        let c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
 }
 
 window.addEventListener('popstate', () => {

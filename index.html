@@ -2,21 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Observer">
     <meta name="theme-color" content="#fcfbf9">
     <title>The Quiet Observer</title>
     
-    <!-- Favicon -->
+    <!-- Icons -->
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏛️</text></svg>">
-    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 fill=%22%23fcfbf9%22/><text y=%22.9em%22 x=%225%22 font-size=%2280%22>🏛️</text></svg>">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <!-- Fallback for data URI if file is missing, but iOS prefers files -->
+    <link rel="apple-touch-icon-precomposed" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0BAMAAABp7XU6AAAAG1BMVEUAAAD8+/v8+/v8+/v8+/v8+/v8+/v8+/v8+/vM3XfBAAAACHRSTlMAAAAAAAAAM1yv3wAAAExJREFUaN7t0UENAAAIA6DVs/4lrIIPNoK0SZo0adKkSZMmTZo0adKkSZMmTZo0adKkSZMmTZo0adKkSZMmTZo0adKkSZMmTZo0adK0GfMB0B8AnX69Y8UAAAAASUVORK5CYII=">
     
     <link rel="stylesheet" href="style.css">
-    <!-- Google Fonts -->
+    <script>
+        // Inline script to prevent theme flash
+        (function() {
+            const savedTheme = document.cookie.split('; ').find(row => row.startsWith('theme='))?.split('=')[1];
+            if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                document.documentElement.setAttribute('data-theme', 'dark');
+            }
+        })();
+    </script>
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300&family=Noto+Serif+KR:wght@300;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" />
     <!-- Markdown Parser -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
@@ -28,6 +42,7 @@
         <nav>
             <button id="btn-en" data-lang="en">English</button>
             <button id="btn-ko" data-lang="ko">한국어</button>
+            <button id="theme-toggle" title="Toggle Dark Mode">🌓</button>
         </nav>
     </header>
 
