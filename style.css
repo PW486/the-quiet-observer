@@ -18,65 +18,6 @@
     --btn-border: #444;
 }
 
-/* Mobile Optimizations */
-@media (max-width: 768px) {
-    header {
-        padding: 40px 20px 30px;
-    }
-
-    h1 {
-        font-size: 1.8rem;
-    }
-
-    main {
-        padding: 20px 15px;
-    }
-
-    .post-list {
-        gap: 20px;
-    }
-
-    .post-item {
-        padding: 20px;
-        background-color: var(--hover-bg);
-        border-color: var(--border-color);
-    }
-
-    .post-item:active {
-        background-color: var(--bg-color);
-        transform: scale(0.98);
-    }
-
-    .post-title {
-        font-size: 1.35rem;
-        margin-bottom: 10px;
-        line-height: 1.4;
-    }
-
-    article h1 {
-        font-size: 1.7rem;
-        line-height: 1.4;
-    }
-
-    article p {
-        font-size: 1.05rem;
-        letter-spacing: -0.01em;
-    }
-
-    /* Improved touch targets for mobile */
-    nav button, #theme-toggle {
-        padding: 10px 22px;
-        margin: 5px;
-        font-size: 0.9rem;
-    }
-
-    .back-btn {
-        padding: 12px 0;
-        margin-bottom: 20px;
-        font-size: 1rem;
-    }
-}
-
 /* Base styles refinement */
 * {
     -webkit-tap-highlight-color: transparent;
@@ -86,7 +27,7 @@
 body {
     background-color: var(--bg-color);
     color: var(--text-color);
-    font-family: var(--font-sans); /* Default to sans-serif for better readability */
+    font-family: var(--font-sans);
     line-height: 1.85;
     margin: 0;
     padding: 0;
@@ -292,7 +233,6 @@ article p, article li {
     font-family: var(--font-serif);
 }
 
-/* Use sans-serif for UI elements even inside article */
 article code, article pre, .meta {
     font-family: var(--font-sans);
 }
@@ -341,8 +281,77 @@ footer {
     margin-top: 50px;
 }
 
-#loading {
-    text-align: center;
-    color: var(--accent-color);
-    margin-top: 50px;
+/* Mobile Optimizations - Moved to Bottom for Priority */
+@media (max-width: 768px) {
+    header {
+        padding: 40px 15px 30px;
+    }
+
+    h1 {
+        font-size: 1.7rem;
+    }
+
+    main {
+        padding: 0; /* Remove horizontal padding from main */
+        width: 100%;
+    }
+
+    .post-list {
+        gap: 0;
+    }
+
+    .post-item {
+        padding: 25px 15px; /* Control horizontal padding here */
+        border: none;
+        border-radius: 0;
+        background-color: transparent;
+    }
+
+    .post-item:active {
+        background-color: var(--hover-bg);
+        transform: none;
+    }
+
+    .post-title {
+        font-size: 1.3rem;
+        margin: 0 0 8px; /* Strict margin control */
+        line-height: 1.4;
+    }
+
+    .post-date {
+        margin-bottom: 4px;
+    }
+
+    article h1 {
+        font-size: 1.6rem;
+        line-height: 1.4;
+        padding: 0 15px;
+    }
+
+    article h6 {
+        margin-bottom: 30px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    article p, article blockquote, article ul, article ol {
+        font-size: 1.05rem;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    article ul, article ol {
+        margin-left: 15px;
+    }
+
+    nav button, #theme-toggle {
+        padding: 10px 18px;
+        margin: 3px;
+        font-size: 0.85rem;
+    }
+
+    .back-btn {
+        padding: 15px;
+        margin-bottom: 10px;
+    }
 }
