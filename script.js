@@ -34,7 +34,18 @@ const config = {
 let currentLang = 'en';
 
 function getLanguage() {
-    return getCookie('lang') || 'en';
+    // 1. Priority: Cookie (user's explicit choice from previous visit)
+    const savedLang = getCookie('lang');
+    if (savedLang) return savedLang;
+
+    // 2. Browser language detection
+    const browserLang = navigator.language || navigator.userLanguage;
+    if (browserLang && browserLang.startsWith('ko')) {
+        return 'ko';
+    }
+
+    // 3. Default to English
+    return 'en';
 }
 
 function getPostId() {
