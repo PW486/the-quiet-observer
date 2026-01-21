@@ -1,6 +1,6 @@
-# The Language of Shadows
+# Learning the Subtle Language of Our Shadows
 
-###### December 01, 2020
+###### July 07, 2021
 
 We often spend our lives trying to live entirely in the light. We seek out the positive, the bright, and the comfortable, living under the persistent hope that if we can just eliminate the darkness from our experience, we will finally be happy. We treat our difficult emotions, our hidden flaws, and our painful memories as problems to be fixed, secrets to be buried, or failures to be ashamed of. We fear that the shadows within us are a definitive sign of brokenness or inadequacy.
 

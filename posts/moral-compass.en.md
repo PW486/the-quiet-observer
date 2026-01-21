@@ -1,6 +1,6 @@
 # Searching for the Roots of Good and Evil
 
-###### January 28, 2025
+###### August 30, 2024
 
 We often think of morality as a set of clear, objective rules—a fixed compass that helps us navigate the messy complexities of life. we label actions as "good" or "evil," often believing that these categories are universal truths built into the very fabric of existence. We take comfort in the idea that there is a definitive right way and a wrong way to be, and that our judgment aligns with some higher order.
 

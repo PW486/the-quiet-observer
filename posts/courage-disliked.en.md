@@ -1,6 +1,6 @@
-# The Courage to Be Disliked
+# The Necessary Courage to Be Disliked
 
-###### February 15, 2025
+###### May 13, 2025
 
 The desire for social approval is a powerful and deeply ingrained human instinct. We instinctively want to be liked, to fit in, and to feel that we are valued members of our community. This instinct helped our ancestors survive in groups where being rejected or ostracized could literally mean death. But in the modern world, this constant, anxious seeking of validation can easily become a psychological cage, preventing us from ever living a life that is truly our own.
 

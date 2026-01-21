@@ -1,6 +1,6 @@
-# The Wisdom of Insecurity
+# Finding Peace Within Insecurity
 
-###### December 02, 2017
+###### March 06, 2024
 
 We spend a vast amount of our vital energy trying to build walls of security around our lives. We seek stable careers, long-term investments, and predictable relationships, believing that if we can just eliminate uncertainty, we will finally find lasting peace. We treat the unknown as a threat to be managed or a technical problem to be solved, hoping to reach a point where nothing can surprise or hurt us.
 

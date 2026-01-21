@@ -1,6 +1,6 @@
-# The Paradox of Choice
+# The Anxiety of Infinite Choice
 
-###### January 28, 2020
+###### October 16, 2024
 
 In modern life, we are often told that more choice is equivalent to more freedom. We have endless options for everything from the simple clothes we wear to the complex careers we pursue. We believe that having a vast variety ensures that we will find the perfect fit for our unique needs. However, as our options increase, so does our anxiety, leading to a strange and modern form of paralysis.
 

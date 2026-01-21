@@ -1,6 +1,6 @@
-# The Wisdom of Regret
+# The Unexpected Wisdom Within Our Regrets
 
-###### October 11, 2017
+###### March 01, 2022
 
 We are often told to live with "no regrets." It sounds like a powerful and confident way to live, suggesting a path of constant forward motion and unwavering certainty. But the attempt to eliminate regret entirely can lead us to ignore the valuable lessons that our mistakes are trying to teach us. Regret is not a sign of failure; it is a sign of our capacity for growth.
 

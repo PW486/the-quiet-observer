@@ -1,6 +1,6 @@
-# Walking with Uncertainty
+# The Art of Walking with Uncertainty
 
-###### July 29, 2023
+###### February 14, 2022
 
 We are conditioned to seek certainty in everything we do. We want guaranteed results, secure futures, and clear answers to our biggest questions. We feel that if we can just gather enough information or make the perfect plan, we can eliminate the discomfort of not knowing. We treat uncertainty as a fog to be cleared, rather than the very air we breathe.
 

@@ -1,6 +1,6 @@
-# On Intellectual Humility
+# The Strength of Admitting 'I Don't Know'
 
-###### August 25, 2022
+###### August 17, 2023
 
 In an age characterized by extreme polarization and the instant availability of information, the ability to say "I don't know" or "I might be wrong" has become increasingly rare and precious. We are often socially and professionally rewarded for having strong, unwavering opinions and for defending them at all costs. We tend to treat our beliefs as if they were fixed, essential parts of our identity, making any challenge to them feel like a personal attack. This intellectual rigidity prevents us from learning and from connecting with those who see the world differently.
 

@@ -1,6 +1,6 @@
-# The Silent Language of Home
+# The Silent Language of Our Spaces
 
-###### June 12, 2019
+###### October 24, 2023
 
 We often think of home as just a physical location—a roof over our heads and a place to store our belongings. But a home is much more than a building; it is a living reflection of our inner world and a sanctuary for our most authentic selves. The objects we choose to keep, the way we arrange our space, and the quiet rituals we perform within our walls all speak a silent language about who we are, where we've been, and what we value.
 

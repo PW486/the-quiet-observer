@@ -1,6 +1,6 @@
-# Small Moments and Big Meanings
+# Finding Extraordinary Meanings in Ordinary Moments
 
-###### May 01, 2022
+###### January 25, 2023
 
 We tend to wait for the big events to feel that our lives are meaningful. We wait for the promotion, the wedding, the grand vacation, or the achievement of a long-term goal. We treat the time in between these milestones as something to be endured—a series of ordinary days that don't quite count in the grand story of who we are. We live for the highlights, forgetting that the highlights only make up a tiny fraction of our existence.
 

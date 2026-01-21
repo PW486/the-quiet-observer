@@ -1,6 +1,6 @@
-# Is Our Will Truly Free?
+# The Paradox of Our Free Will
 
-###### April 25, 2023
+###### November 24, 2024
 
 We like to think of ourselves as the masters of our own destiny. Every choice we make, from the clothes we put on in the morning to the deep convictions we hold in our hearts, feels like a result of our own independent deliberation. This sense of agency is the very foundation of our moral systems, our laws, and our self-respect. We believe that, if we wanted to, we could have chosen differently.
 

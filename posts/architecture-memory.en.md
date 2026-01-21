@@ -1,6 +1,6 @@
-# The Architecture of Memory
+# The Creative Architecture of Memory
 
-###### January 22, 2024
+###### September 04, 2025
 
 We often think of memory as a literal recording—a faithful storage of past events that we can revisit and replay whenever we choose. We believe that our memories are a true and stable reflection of what actually happened, providing the solid, unchanging foundation for our identity. But memory is far more creative, fluid, and selective than we realize. It is less like a library of dusty books and more like a dynamic workshop where we are constantly rebuilding the past to serve the present.
 

@@ -1,6 +1,6 @@
-# Listening to Your Body
+# Learning to Speak the Language of Your Body
 
-###### March 03, 2021
+###### September 18, 2023
 
 We often treat our bodies like complex machines—tools that are primarily meant to perform according to our mental commands. We push them to work longer hours, feed them according to strict, sometimes arbitrary diets, and habitually ignore their subtle signals of pain, hunger, or fatigue in favor of our intellectual goals. We live mostly in our heads, treating the physical self as a separate, lower entity that we must control, manage, and often apologize for.
 

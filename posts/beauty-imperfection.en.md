@@ -1,6 +1,6 @@
-# The Beauty of Imperfection
+# The Aesthetic of Imperfection
 
-###### June 19, 2020
+###### December 31, 2021
 
 We live in a world that is obsessively focused on polish and perfection. From the filtered, idealized images on social media to the rigid standards of mass production, we are constantly told that flawlessness is the ultimate goal. We try to hide our physical and emotional scars, fix our mistakes as quickly as possible, and project an image of a life that is completely under control. But this relentless pursuit of perfection often leads to a sense of coldness, anxiety, and profound disconnection.
 

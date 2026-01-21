@@ -1,6 +1,6 @@
-# The Beauty of Unfinished Thoughts
+# The Freedom of Unfinished Thoughts
 
-###### July 20, 2025
+###### December 08, 2021
 
 We often feel a strange pressure to have everything figured out. From a young age, we are taught that a question without an answer is a problem to be solved, and a thought without a conclusion is a failure of logic. We chase certainty as if it were the only ground we could safely stand on, believing that a finished idea is a superior one.
 

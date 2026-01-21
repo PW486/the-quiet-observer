@@ -1,6 +1,6 @@
-# The Beauty of the Temporary
+# The Poignant Beauty of the Temporary
 
-###### October 22, 2022
+###### March 30, 2022
 
 We often spend our lives chasing permanence as if it were the ultimate goal of human existence. We want our achievements to last forever, our relationships to never change, and our youthful vitality to remain indefinitely. We tend to treat transience as a fundamental flaw in the universe, a source of profound sorrow that we must somehow overcome or ignore. Yet, when we look closer, we find a startling truth: the very things that make life beautiful and precious are often the ones that are the most fleeting.
 

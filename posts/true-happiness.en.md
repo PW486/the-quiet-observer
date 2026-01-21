@@ -1,6 +1,6 @@
-# The Paradox Between Happiness and Meaning
+# The Fragile Balance Between Happiness and Meaning
 
-###### June 21, 2024
+###### January 29, 2022
 
 We are told from a young age that the goal of life is to be happy. We chase moments of pleasure, comfort, and success, believing that if we can just gather enough of these experiences, we will finally be fulfilled. But often, the more we pursue happiness directly, the more it seems to slip through our fingers. We find that a life filled only with "happy" moments can sometimes feel surprisingly empty.
 

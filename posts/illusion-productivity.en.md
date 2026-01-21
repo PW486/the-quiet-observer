@@ -1,6 +1,6 @@
-# The Illusion of Productivity
+# The Trap of Performing Productivity
 
-###### December 14, 2021
+###### June 08, 2025
 
 We live in a culture that treats busyness as a supreme badge of honor. We measure our worth by the length of our to-do lists, the number of emails we answer, and the hours we spend at our desks. We feel a constant, anxious pressure to be "productive," fearing that if we are not always doing something, we are falling behind or losing our edge. But in this frantic rush to stay busy, we often confuse mere activity with genuine achievement.
 

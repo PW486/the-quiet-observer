@@ -1,6 +1,6 @@
-# Why We Never Stop Creating Beauty
+# Our Human Obsession with Beauty
 
-###### August 04, 2017
+###### May 06, 2022
 
 Human history is a long story of survival, but it is also a story of a constant and mysterious obsession with beauty. From the ancient cave paintings to the grand cathedrals, and from the simplest folk songs to the most complex symphonies, we have always devoted an immense amount of energy to things that have no immediate survival value. We decorate our tools, we tend our gardens, and we spend our lives seeking out experiences that stir our souls.
 

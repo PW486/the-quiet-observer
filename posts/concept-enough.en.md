@@ -1,6 +1,6 @@
-# The Concept of Enough
+# The Peace of Having Enough
 
-###### June 15, 2022
+###### December 16, 2023
 
 We are conditioned by a culture of constant expansion to believe that "more" is always synonymous with "better." We are driven to accumulate more wealth, more experiences, more followers, and more achievements, living under the persistent illusion that we are just one purchase or one milestone away from true satisfaction. This endless pursuit creates a state of perpetual lack, where the present moment is always treated as a mere stepping stone to a better future.
 

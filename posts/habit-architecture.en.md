@@ -1,6 +1,6 @@
-# The Architecture of Habits
+# The Scaffolding of Our Habits
 
-###### February 22, 2019
+###### November 08, 2023
 
 We often think of our lives as being shaped by our big, monumental decisions—the careers we choose, the partners we marry, or the places we decide to live. While these choices are undeniably important, the true architecture of our existence is built from the small, repetitive actions we take every single day. Our habits are the invisible scaffolding that supports our long-term goals and defines the core of our character.
 

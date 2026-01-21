@@ -1,6 +1,6 @@
-# How Objective is Our Truth?
+# The Fragility of Our Objective Truth
 
-###### May 15, 2025
+###### November 16, 2022
 
 We like to believe that we see the world as it truly is. We trust our senses, our logic, and our observations, thinking that they provide us with a direct and objective window into reality. We speak of "the truth" as if it were a solid object sitting in the middle of the room, waiting for everyone to see it from the same angle. But the more we understand our own minds, the more we realize that our truth is often deeply subjective.
 

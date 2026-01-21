@@ -1,6 +1,6 @@
-# Truth Beyond Language
+# Truths That Exist Beyond Language
 
-###### September 10, 2022
+###### November 23, 2023
 
 We rely on language to structure our thoughts, to communicate our feelings, and to navigate our social world. Words are the primary tools we use to define our reality, giving names to objects, concepts, and experiences. We often behave as if the world *is* the labels we have assigned to it, believing that if we can describe something accurately, we have captured its essence. However, there is a profound depth of truth that lies entirely beyond the reach of language.
 

@@ -1,6 +1,6 @@
-# The Quiet Joy of Stillness
+# The Sustaining Joy of Stillness
 
-###### April 07, 2019
+###### October 12, 2022
 
 We live in a world that is constantly moving, relentlessly making noise, and aggressively demanding our attention. We have come to believe that activity is the only measure of value and that to be still is to be unproductive, lazy, or irrelevant. We feel a strange, underlying guilt when we are not "doing" something, as if we are wasting the precious and finite minutes of our lives. We have forgotten that being is just as vital as doing.
 

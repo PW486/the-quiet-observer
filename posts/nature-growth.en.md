@@ -1,6 +1,6 @@
-# The Nature of Growth
+# The Non-Linear Nature of Personal Growth
 
-###### August 05, 2020
+###### August 21, 2021
 
 We often imagine growth as a steady, upward climb—a linear progression toward a higher state of being or achievement. We want to see constant progress, measurable results, and a clear, predictable path toward our goals. When we face setbacks or periods of stagnation, we feel as though we are failing, as if we have lost the momentum we worked so hard to build.
 

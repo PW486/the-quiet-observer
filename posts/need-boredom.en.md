@@ -1,6 +1,6 @@
-# Why We Need Boredom
+# Why We Must Embrace Boredom
 
-###### January 21, 2022
+###### April 23, 2024
 
 In our modern era, boredom has become something of a taboo. Whenever we have a spare moment—waiting for a bus, standing in line, or sitting through a commercial—we immediately reach for our phones to fill the gap. We are constantly consuming information, entertainment, and the curated lives of others, afraid of what might happen if we are left alone with our own unfiltered thoughts.
 

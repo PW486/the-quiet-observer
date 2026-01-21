@@ -1,6 +1,6 @@
-# Wisdom in Simplicity
+# The Deep Wisdom of a Simple Life
 
-###### July 17, 2018
+###### February 27, 2024
 
 We often equate complexity with intelligence and sophistication. We admire intricate systems, complex theories, and people who can navigate the most difficult challenges. In our desire to be seen as capable, we often add layers to our lives—more commitments, more information, more possessions—until we are overwhelmed by the very things we thought would make our lives better. We mistake activity for progress and clutter for richness.
 

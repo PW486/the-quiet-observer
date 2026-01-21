@@ -1,6 +1,6 @@
-# The Courage to Start Small
+# The Quiet Power of Starting Small
 
-###### February 04, 2018
+###### November 01, 2021
 
 We often feel overwhelmed, and sometimes even paralyzed, by the sheer size of our dreams and the staggering magnitude of the challenges we face. We look at the mountain we want to climb and feel deeply discouraged by the vast distance and the perceived difficulty of the path ahead. This fear of the grand scale can lead to a state of chronic inaction, where we end up doing nothing at all because we don't know the "perfect" place to begin or because we feel our modest efforts won't possibly matter in the long run.
 

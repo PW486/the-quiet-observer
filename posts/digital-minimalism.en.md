@@ -1,6 +1,6 @@
-# Digital Minimalism
+# Reclaiming Your Soul from Digital Noise
 
-###### February 14, 2023
+###### February 06, 2023
 
 We are currently living in the middle of a massive, unprecedented social experiment. Never before has our limited human attention been so constantly and aggressively demanded by digital devices and social platforms. We are connected to everyone and everything at all times, but this constant connectivity often comes at a high price: our focus, our peace of mind, and our ability to be truly present with the physical world and the people right in front of us.
 

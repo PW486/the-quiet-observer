@@ -1,6 +1,6 @@
-# Time is Not a River
+# Time Is Not a Constant Flow
 
-###### March 05, 2023
+###### April 14, 2025
 
 We often describe time as a river, a constant and irreversible flow from the past, through the present, and into the future. We feel carried away by its current, unable to return to yesterday or to slow down the arrival of tomorrow. We treat time as an external force that we must manage or fight against, constantly checking our clocks as if they were measuring the depletion of a precious resource.
 

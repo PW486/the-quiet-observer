@@ -1,6 +1,6 @@
-# The Gift of Disappointment
+# The Hard-Won Gifts of Disappointment
 
-###### November 09, 2021
+###### July 16, 2025
 
 Disappointment is an experience we usually try to avoid at all costs. It feels heavy, cold, and demoralizing, often leaving us with a sense of emptiness. We treat it as a definitive sign that we have failed, that the world has let us down, or that our dreams were foolish to begin with. When our expectations are not met, we often spiral into frustration or sadness, wanting to erase the experience and move on as quickly as possible to the next pursuit.
 

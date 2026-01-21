@@ -1,6 +1,6 @@
-# Why We Need Art
+# Why Our Souls Hunger for Art
 
-###### September 16, 2023
+###### August 22, 2022
 
 In a world that increasingly prizes utility, speed, and measurable efficiency, art is often viewed as a luxury or a decorative distraction. We are taught to value things that have a clear, functional purpose and a predictable result. Yet, despite our obsession with productivity, humans continue to create and consume art in all its diverse forms. This is because art provides something that logic, numbers, and data never can: a mirror for the complexities of the human soul.
 

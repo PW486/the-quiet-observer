@@ -1,6 +1,6 @@
-# The Wisdom of No
+# The Life-Saving Power of Saying No
 
-###### November 28, 2022
+###### January 20, 2026
 
 We are often taught from childhood to be agreeable and to take on as much as we possibly can. We say "yes" to requests from colleagues, invitations from friends, and demands from our community, often because we fear letting people down or appearing uncooperative. We treat our time and energy as if they were infinite resources, leading us to a state of constant overcommitment, resentment, and eventual exhaustion.
 

@@ -1,6 +1,6 @@
-# The Gift of Listening
+# Deep Listening as a Sacred Gift
 
-###### April 18, 2018
+###### July 13, 2022
 
 In a world where everyone is shouting to be heard, the act of truly listening has become a rare and precious gift. We often listen with the intent to reply, scanning the other person's words for a gap where we can insert our own opinions or stories. We are so busy preparing our next sentence that we miss the nuances, the emotions, and the unspoken truths of what is actually being shared.
 

@@ -1,6 +1,6 @@
-# The Philosophy of Walking
+# Walking as a Physical Meditation
 
-###### November 07, 2018
+###### August 04, 2023
 
 There is a unique and ancient relationship between the rhythmic movement of our feet and the natural movement of our thoughts. Many of the great thinkers throughout history were avid walkers, finding that the steady stride of a walk helped to clarify their ideas, dissolve mental blocks, and stimulate their deepest creativity. When we walk, we are not just transporting our bodies from one location to another; we are engaging in a form of active meditation that synchronizes our physical and mental selves.
 

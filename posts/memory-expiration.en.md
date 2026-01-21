@@ -1,6 +1,6 @@
-# The Expiration Date of Memories
+# Does Every Memory Have an Expiration Date?
 
-###### August 30, 2019
+###### September 18, 2025
 
 We often treat our memories as if they were permanent records, inscribed in stone within the halls of our minds. We believe that once an event is remembered, it is preserved forever, providing a static and unchangeable foundation for our identity. But memory, like everything else in the human experience, has its own natural lifespan and even its own subtle expiration date.
 

@@ -1,6 +1,6 @@
-# The Art of Waiting
+# Waiting as an Active State of Being
 
-###### December 07, 2018
+###### September 25, 2021
 
 We live in a world defined by the pursuit of instant gratification. We want our news now, our deliveries now, and our personal or professional success now. We have come to view waiting as a nuisance, a waste of precious time, or a frustrating sign of inefficiency. But in our frantic rush to eliminate waiting from our lives, we are losing an essential part of the human experience: the ability to exist comfortably and thoughtfully in the space between wanting and having.
 

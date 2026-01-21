@@ -1,6 +1,6 @@
-# The Revolution of Kindness
+# Kindness as a Radical Act
 
-###### July 30, 2021
+###### May 27, 2023
 
 In a world that often feels harsh, competitive, and increasingly polarized, kindness is sometimes viewed as a secondary virtue—something that is nice to possess, but not essential for success or survival. We are frequently taught to be tough, to be assertive, and to prioritize our own narrow interests. But true kindness is not a sign of weakness or passivity; it is a quiet and powerful revolution that has the profound potential to transform our lives and the very fabric of our communities.
 

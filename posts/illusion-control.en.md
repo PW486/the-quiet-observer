@@ -1,6 +1,6 @@
-# The Illusion of Control
+# The Illusion of Controlling Life
 
-###### November 16, 2023
+###### July 31, 2024
 
 Most of our anxiety stems from the quiet, persistent desire to control the uncontrollable. We meticulously plan our days, our careers, and our relationships, hoping that if we work hard enough and anticipate every variable, we can guarantee a specific outcome. We treat life like a complex puzzle where every piece must fit perfectly into a place we have already designated in our minds.
 

@@ -1,6 +1,6 @@
-# The Right to Not Choose
+# The Vital Right Not to Choose a Side
 
-###### July 19, 2017
+###### May 14, 2024
 
 In a world that celebrates decisiveness and action, we are often pressured to have a definitive opinion on everything and to choose a side in every conflict. We treat neutrality as a sign of weakness and indecision as a failure of character. We are encouraged to "take a stand" and to commit to a single path, believing that clarity is always superior to ambiguity. However, there is a profound and necessary wisdom in exercising the right to not choose.
 

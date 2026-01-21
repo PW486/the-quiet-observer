@@ -1,6 +1,6 @@
-# The Weight of Expectations
+# The Heavy Armor of Others' Expectations
 
-###### October 18, 2020
+###### October 02, 2022
 
 From the moment we enter the world, we are surrounded by a complex web of expectations. Our parents, our teachers, our peers, and society at large all carry a vision of who we should be and what we should achieve. Over time, we internalize these external voices until we can no longer distinguish them from our own desires. The weight of trying to fulfill everyone else's script can be exhausting, leaving us feeling like we are living a life that was designed by committee rather than one that belongs to us.
 

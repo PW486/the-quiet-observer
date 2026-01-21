@@ -1,6 +1,6 @@
-# The Courage to Be Authentic
+# The Radical Act of Being Yourself
 
-###### February 27, 2025
+###### November 16, 2023
 
 It is a common human instinct to want to fit in. We carefully curate our words and our images to meet the expectations of others, fearing that if we show our true selves, we might be rejected or misunderstood. We wear masks to feel safe, but those same masks eventually become a heavy burden to carry, distancing us from the very connections we seek.
 

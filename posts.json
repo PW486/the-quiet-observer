@@ -1,9 +1,9 @@
 [
     {
-        "id": "travel-mind",
+        "id": "wisdom-no",
         "title": {
-            "en": "Travel as a State of Mind",
-            "ko": "마음의 상태로서의 여행"
+            "en": "The Life-Saving Power of Saying No",
+            "ko": "나를 지키기 위해 거절이 필요한 이유"
         },
         "date": {
             "en": "January 20, 2026",
@@ -11,102 +11,212 @@
         }
     },
     {
-        "id": "not-knowing",
+        "id": "power-vulnerability",
         "title": {
-            "ko": "모른다는 것의 기술",
-            "en": "The Art of Not Knowing"
+            "ko": "취약함은 약함이 아니라 용기의 증거다",
+            "en": "Vulnerability Is the Measure of Courage"
         },
         "date": {
-            "ko": "2025년 11월 28일",
-            "en": "November 28, 2025"
+            "ko": "2025년 12월 25일",
+            "en": "December 25, 2025"
         }
     },
     {
-        "id": "resilience-soul",
+        "id": "alchemy-forgiveness",
         "title": {
-            "en": "The Resilience of the Soul",
-            "ko": "영혼의 회복탄력성"
+            "ko": "용서, 과거의 짐으로부터 나를 해방하는 일",
+            "en": "The Alchemy of Genuine Forgiveness"
         },
         "date": {
-            "en": "October 06, 2025",
-            "ko": "2025년 10월 6일"
-        }
-    },
-    {
-        "id": "never-failing",
-        "title": {
-            "en": "The Art of Never Failing",
-            "ko": "실패하지 않는 법"
-        },
-        "date": {
-            "en": "August 22, 2025",
-            "ko": "2025년 8월 22일"
-        }
-    },
-    {
-        "id": "unfinished-thoughts",
-        "title": {
-            "en": "The Beauty of Unfinished Thoughts",
-            "ko": "마무리되지 않은 생각의 아름다움"
-        },
-        "date": {
-            "en": "July 20, 2025",
-            "ko": "2025년 7월 20일"
+            "ko": "2025년 12월 5일",
+            "en": "December 05, 2025"
         }
     },
     {
         "id": "final-goodbyes",
         "title": {
-            "en": "The Aesthetics of Final Goodbyes",
-            "ko": "마지막 인사의 미학"
+            "en": "The Profound Aesthetics of Final Goodbyes",
+            "ko": "아름다운 작별 인사가 남기는 여운"
         },
         "date": {
-            "en": "May 31, 2025",
-            "ko": "2025년 5월 31일"
+            "en": "November 05, 2025",
+            "ko": "2025년 11월 5일"
         }
     },
     {
-        "id": "truth-subjective",
+        "id": "paradox-belonging",
         "title": {
-            "en": "How Objective is Our Truth?",
-            "ko": "우리가 믿는 진실은 얼마나 객관적인가"
+            "ko": "소속감과 나다움 사이의 묘한 역설",
+            "en": "The Paradox Between Belonging and Authenticity"
         },
         "date": {
-            "en": "May 15, 2025",
-            "ko": "2025년 5월 15일"
+            "ko": "2025년 10월 26일",
+            "en": "October 26, 2025"
         }
     },
     {
-        "id": "digital-mind",
+        "id": "memory-expiration",
         "title": {
-            "ko": "기계에게도 영혼이 깃들 수 있을까",
-            "en": "Can a Machine Have a Soul?"
+            "en": "Does Every Memory Have an Expiration Date?",
+            "ko": "기억에도 유효기간이 있을까"
         },
         "date": {
-            "ko": "2025년 3월 20일",
-            "en": "March 20, 2025"
+            "en": "September 18, 2025",
+            "ko": "2025년 9월 18일"
         }
     },
     {
-        "id": "courage-authenticity",
+        "id": "architecture-memory",
         "title": {
-            "en": "The Courage to Be Authentic",
-            "ko": "진정성을 지키기 위한 용기"
+            "en": "The Creative Architecture of Memory",
+            "ko": "기억, 과거를 재구성하는 마음의 작업"
         },
         "date": {
-            "en": "February 27, 2025",
-            "ko": "2025년 2월 27일"
+            "en": "September 04, 2025",
+            "ko": "2025년 9월 4일"
+        }
+    },
+    {
+        "id": "not-knowing",
+        "title": {
+            "ko": "모른다는 사실을 기꺼이 받아들이기",
+            "en": "Embracing the Wisdom of Not Knowing"
+        },
+        "date": {
+            "ko": "2025년 8월 7일",
+            "en": "August 07, 2025"
+        }
+    },
+    {
+        "id": "gift-disappointment",
+        "title": {
+            "ko": "실망이 남기고 간 뜻밖의 선물들",
+            "en": "The Hard-Won Gifts of Disappointment"
+        },
+        "date": {
+            "ko": "2025년 7월 16일",
+            "en": "July 16, 2025"
+        }
+    },
+    {
+        "id": "illusion-productivity",
+        "title": {
+            "ko": "생산성이라는 이름의 달콤한 함정",
+            "en": "The Trap of Performing Productivity"
+        },
+        "date": {
+            "ko": "2025년 6월 8일",
+            "en": "June 08, 2025"
         }
     },
     {
         "id": "courage-disliked",
         "title": {
-            "ko": "미움받을 용기에 대하여",
-            "en": "The Courage to Be Disliked"
+            "ko": "미움받을 용기, 자유로워지기 위한 첫걸음",
+            "en": "The Necessary Courage to Be Disliked"
         },
         "date": {
-            "ko": "2025년 2월 15일",
-            "en": "February 15, 2025"
+            "ko": "2025년 5월 13일",
+            "en": "May 13, 2025"
+        }
+    },
+    {
+        "id": "time-river",
+        "title": {
+            "ko": "시간은 결코 강물처럼 흐르지 않는다",
+            "en": "Time Is Not a Constant Flow"
+        },
+        "date": {
+            "ko": "2025년 4월 14일",
+            "en": "April 14, 2025"
+        }
+    },
+    {
+        "id": "fear-death",
+        "title": {
+            "en": "How Mortality Makes Life Beautiful",
+            "ko": "죽음이 있기에 삶은 더 아름답다"
+        },
+        "date": {
+            "en": "March 12, 2025",
+            "ko": "2025년 3월 12일"
+        }
+    },
+    {
+        "id": "joy-effort",
+        "title": {
+            "en": "The Moment Effort Becomes Joy",
+            "ko": "노력이 즐거움이 되는 순간"
+        },
+        "date": {
+            "en": "February 08, 2025",
+            "ko": "2025년 2월 8일"
+        }
+    },
+    {
+        "id": "travel-mind",
+        "title": {
+            "en": "True Travel is a Mindset, Not a Destination",
+            "ko": "진정한 여행은 장소가 아닌 마음가짐이다"
+        },
+        "date": {
+            "en": "January 29, 2025",
+            "ko": "2025년 1월 29일"
+        }
+    },
+    {
+        "id": "never-failing",
+        "title": {
+            "en": "How to Transcend the Fear of Failure",
+            "ko": "실패라는 두려움을 넘어선 삶의 태도"
+        },
+        "date": {
+            "en": "January 02, 2025",
+            "ko": "2025년 1월 2일"
+        }
+    },
+    {
+        "id": "identity-ship",
+        "title": {
+            "ko": "변해버린 나를 여전히 나라고 부를 수 있을까",
+            "en": "Am I Still the Same Person I Was Yesterday?"
+        },
+        "date": {
+            "ko": "2024년 11월 30일",
+            "en": "November 30, 2024"
+        }
+    },
+    {
+        "id": "free-will",
+        "title": {
+            "ko": "자유의지, 우리는 정말 스스로 선택하는가",
+            "en": "The Paradox of Our Free Will"
+        },
+        "date": {
+            "ko": "2024년 11월 24일",
+            "en": "November 24, 2024"
+        }
+    },
+    {
+        "id": "paradox-choice",
+        "title": {
+            "ko": "너무 많은 선택지가 우리를 불행하게 할 때",
+            "en": "The Anxiety of Infinite Choice"
+        },
+        "date": {
+            "ko": "2024년 10월 16일",
+            "en": "October 16, 2024"
+        }
+    },
+    {
+        "id": "flame-curiosity",
+        "title": {
+            "ko": "호기심의 불꽃을 꺼뜨리지 않는 법",
+            "en": "Tending the Eternal Flame of Curiosity"
+        },
+        "date": {
+            "ko": "2024년 9월 12일",
+            "en": "September 12, 2024"
         }
     },
     {
@@ -116,228 +226,8 @@
             "en": "Searching for the Roots of Good and Evil"
         },
         "date": {
-            "ko": "2025년 1월 28일",
-            "en": "January 28, 2025"
-        }
-    },
-    {
-        "id": "life-observer",
-        "title": {
-            "en": "Life as an Observer",
-            "ko": "관찰자로서의 삶"
-        },
-        "date": {
-            "en": "December 14, 2024",
-            "ko": "2024년 12월 14일"
-        }
-    },
-    {
-        "id": "digital-connection",
-        "title": {
-            "en": "Connection in a Digital Age",
-            "ko": "디지털 시대의 진정한 연결"
-        },
-        "date": {
-            "en": "October 04, 2024",
-            "ko": "2024년 10월 4일"
-        }
-    },
-    {
-        "id": "solitude-chronology",
-        "title": {
-            "en": "The Chronology of Solitude",
-            "ko": "고독의 연대기"
-        },
-        "date": {
-            "en": "July 26, 2024",
-            "ko": "2024년 7월 26일"
-        }
-    },
-    {
-        "id": "true-happiness",
-        "title": {
-            "ko": "행복과 의미 사이의 역설",
-            "en": "The Paradox Between Happiness and Meaning"
-        },
-        "date": {
-            "ko": "2024년 6월 21일",
-            "en": "June 21, 2024"
-        }
-    },
-    {
-        "id": "flame-curiosity",
-        "title": {
-            "ko": "호기심의 불꽃",
-            "en": "The Flame of Curiosity"
-        },
-        "date": {
-            "ko": "2024년 5월 9일",
-            "en": "May 09, 2024"
-        }
-    },
-    {
-        "id": "art-letting-go",
-        "title": {
-            "ko": "내려놓음이라는 기술",
-            "en": "The Art of Letting Go"
-        },
-        "date": {
-            "ko": "2024년 2월 25일",
-            "en": "February 25, 2024"
-        }
-    },
-    {
-        "id": "architecture-memory",
-        "title": {
-            "en": "The Architecture of Memory",
-            "ko": "기억의 건축학"
-        },
-        "date": {
-            "en": "January 22, 2024",
-            "ko": "2024년 1월 22일"
-        }
-    },
-    {
-        "id": "illusion-control",
-        "title": {
-            "en": "The Illusion of Control",
-            "ko": "통제라는 환상"
-        },
-        "date": {
-            "en": "November 16, 2023",
-            "ko": "2023년 11월 16일"
-        }
-    },
-    {
-        "id": "why-art",
-        "title": {
-            "ko": "우리가 예술을 필요로 하는 이유",
-            "en": "Why We Need Art"
-        },
-        "date": {
-            "ko": "2023년 9월 16일",
-            "en": "September 16, 2023"
-        }
-    },
-    {
-        "id": "uncertainty-path",
-        "title": {
-            "ko": "불확실성과 함께 걷는 법",
-            "en": "Walking with Uncertainty"
-        },
-        "date": {
-            "ko": "2023년 7월 29일",
-            "en": "July 29, 2023"
-        }
-    },
-    {
-        "id": "value-rituals",
-        "title": {
-            "ko": "의식이 주는 안정감",
-            "en": "The Stability of Rituals"
-        },
-        "date": {
-            "ko": "2023년 6월 27일",
-            "en": "June 27, 2023"
-        }
-    },
-    {
-        "id": "free-will",
-        "title": {
-            "ko": "자유의지는 정말 우리의 선택일까",
-            "en": "Is Our Will Truly Free?"
-        },
-        "date": {
-            "ko": "2023년 4월 25일",
-            "en": "April 25, 2023"
-        }
-    },
-    {
-        "id": "time-river",
-        "title": {
-            "ko": "시간은 결코 흐르지 않는다",
-            "en": "Time is Not a River"
-        },
-        "date": {
-            "ko": "2023년 3월 5일",
-            "en": "March 05, 2023"
-        }
-    },
-    {
-        "id": "digital-minimalism",
-        "title": {
-            "ko": "디지털 미니멀리즘",
-            "en": "Digital Minimalism"
-        },
-        "date": {
-            "ko": "2023년 2월 14일",
-            "en": "February 14, 2023"
-        }
-    },
-    {
-        "id": "philosophy-aging",
-        "title": {
-            "ko": "나이 듦의 철학",
-            "en": "The Philosophy of Aging"
-        },
-        "date": {
-            "ko": "2023년 2월 4일",
-            "en": "February 04, 2023"
-        }
-    },
-    {
-        "id": "wisdom-no",
-        "title": {
-            "en": "The Wisdom of No",
-            "ko": "'아니오'라고 말하는 지혜"
-        },
-        "date": {
-            "en": "November 28, 2022",
-            "ko": "2022년 11월 28일"
-        }
-    },
-    {
-        "id": "beauty-temporary",
-        "title": {
-            "en": "The Beauty of the Temporary",
-            "ko": "일시적인 것의 아름다움"
-        },
-        "date": {
-            "en": "October 22, 2022",
-            "ko": "2022년 10월 22일"
-        }
-    },
-    {
-        "id": "truth-beyond-language",
-        "title": {
-            "ko": "언어 너머의 진실",
-            "en": "Truth Beyond Language"
-        },
-        "date": {
-            "ko": "2022년 9월 10일",
-            "en": "September 10, 2022"
-        }
-    },
-    {
-        "id": "intellectual-humility",
-        "title": {
-            "en": "On Intellectual Humility",
-            "ko": "지적 겸손에 대하여"
-        },
-        "date": {
-            "en": "August 25, 2022",
-            "ko": "2022년 8월 25일"
-        }
-    },
-    {
-        "id": "mirror-books",
-        "title": {
-            "ko": "책이라는 거울",
-            "en": "The Mirror of Books"
-        },
-        "date": {
-            "ko": "2022년 7월 19일",
-            "en": "July 19, 2022"
+            "ko": "2024년 8월 30일",
+            "en": "August 30, 2024"
         }
     },
     {
@@ -347,448 +237,558 @@
             "ko": "우리는 왜 여기에 있는가"
         },
         "date": {
-            "en": "June 29, 2022",
-            "ko": "2022년 6월 29일"
+            "en": "August 08, 2024",
+            "ko": "2024년 8월 8일"
         }
     },
     {
-        "id": "concept-enough",
+        "id": "illusion-control",
         "title": {
-            "ko": "충분함이라는 감각",
-            "en": "The Concept of Enough"
+            "en": "The Illusion of Controlling Life",
+            "ko": "삶을 통제할 수 있다는 위험한 착각"
         },
         "date": {
-            "ko": "2022년 6월 15일",
-            "en": "June 15, 2022"
+            "en": "July 31, 2024",
+            "ko": "2024년 7월 31일"
         }
     },
     {
-        "id": "small-moments",
+        "id": "life-observer",
         "title": {
-            "ko": "일상의 작은 순간들이 품은 의미",
-            "en": "Small Moments and Big Meanings"
+            "en": "The Life of a Conscious Observer",
+            "ko": "관찰자로 산다는 것, 세상을 깊이 목격하는 삶"
         },
         "date": {
-            "ko": "2022년 5월 1일",
-            "en": "May 01, 2022"
-        }
-    },
-    {
-        "id": "solitude",
-        "title": {
-            "en": "Finding Yourself in Solitude",
-            "ko": "고독, 나를 만나는 진정한 시간"
-        },
-        "date": {
-            "en": "February 21, 2022",
-            "ko": "2022년 2월 21일"
-        }
-    },
-    {
-        "id": "need-boredom",
-        "title": {
-            "ko": "우리에게 권태가 필요한 이유",
-            "en": "Why We Need Boredom"
-        },
-        "date": {
-            "ko": "2022년 1월 21일",
-            "en": "January 21, 2022"
-        }
-    },
-    {
-        "id": "illusion-productivity",
-        "title": {
-            "ko": "생산성이라는 환상",
-            "en": "The Illusion of Productivity"
-        },
-        "date": {
-            "ko": "2021년 12월 14일",
-            "en": "December 14, 2021"
-        }
-    },
-    {
-        "id": "gift-disappointment",
-        "title": {
-            "ko": "실망이라는 선물",
-            "en": "The Gift of Disappointment"
-        },
-        "date": {
-            "ko": "2021년 11월 9일",
-            "en": "November 09, 2021"
-        }
-    },
-    {
-        "id": "fast-mindfulness",
-        "title": {
-            "ko": "빠른 세상 속의 느린 호흡",
-            "en": "Slow Breathing in a Fast World"
-        },
-        "date": {
-            "ko": "2021년 8월 29일",
-            "en": "August 29, 2021"
-        }
-    },
-    {
-        "id": "joy-effort",
-        "title": {
-            "en": "Finding Joy in Effort",
-            "ko": "노력에서 찾는 즐거움"
-        },
-        "date": {
-            "en": "August 18, 2021",
-            "ko": "2021년 8월 18일"
-        }
-    },
-    {
-        "id": "revolution-kindness",
-        "title": {
-            "ko": "다정함이라는 조용한 혁명",
-            "en": "The Revolution of Kindness"
-        },
-        "date": {
-            "ko": "2021년 7월 30일",
-            "en": "July 30, 2021"
-        }
-    },
-    {
-        "id": "empathy-limits",
-        "title": {
-            "en": "The Limits and Possibilities of Empathy",
-            "ko": "공감의 한계와 가능성"
-        },
-        "date": {
-            "en": "May 27, 2021",
-            "ko": "2021년 5월 27일"
-        }
-    },
-    {
-        "id": "relationship-mirror",
-        "title": {
-            "en": "The Mirror of Relationships",
-            "ko": "관계라는 이름의 거울"
-        },
-        "date": {
-            "en": "April 30, 2021",
-            "ko": "2021년 4월 30일"
-        }
-    },
-    {
-        "id": "listening-body",
-        "title": {
-            "en": "Listening to Your Body",
-            "ko": "몸의 목소리에 귀 기울이기"
-        },
-        "date": {
-            "en": "March 03, 2021",
-            "ko": "2021년 3월 3일"
-        }
-    },
-    {
-        "id": "power-vulnerability",
-        "title": {
-            "ko": "취약함이 가진 힘",
-            "en": "The Power of Vulnerability"
-        },
-        "date": {
-            "ko": "2020년 12월 30일",
-            "en": "December 30, 2020"
-        }
-    },
-    {
-        "id": "language-shadows",
-        "title": {
-            "en": "The Language of Shadows",
-            "ko": "그림자의 언어"
-        },
-        "date": {
-            "en": "December 01, 2020",
-            "ko": "2020년 12월 1일"
-        }
-    },
-    {
-        "id": "weight-expectations",
-        "title": {
-            "en": "The Weight of Expectations",
-            "ko": "기대의 무게"
-        },
-        "date": {
-            "en": "October 18, 2020",
-            "ko": "2020년 10월 18일"
-        }
-    },
-    {
-        "id": "weight-words",
-        "title": {
-            "en": "The Weight of Words",
-            "ko": "말의 무게"
-        },
-        "date": {
-            "en": "September 14, 2020",
-            "ko": "2020년 9월 14일"
-        }
-    },
-    {
-        "id": "nature-growth",
-        "title": {
-            "en": "The Nature of Growth",
-            "ko": "성장의 본질에 대하여"
-        },
-        "date": {
-            "en": "August 05, 2020",
-            "ko": "2020년 8월 5일"
-        }
-    },
-    {
-        "id": "beauty-imperfection",
-        "title": {
-            "ko": "완벽하지 않음의 아름다움",
-            "en": "The Beauty of Imperfection"
-        },
-        "date": {
-            "ko": "2020년 6월 19일",
-            "en": "June 19, 2020"
-        }
-    },
-    {
-        "id": "paradox-belonging",
-        "title": {
-            "ko": "소속의 역설",
-            "en": "The Paradox of Belonging"
-        },
-        "date": {
-            "ko": "2020년 4월 3일",
-            "en": "April 03, 2020"
-        }
-    },
-    {
-        "id": "paradox-choice",
-        "title": {
-            "ko": "선택의 역설",
-            "en": "The Paradox of Choice"
-        },
-        "date": {
-            "ko": "2020년 1월 28일",
-            "en": "January 28, 2020"
-        }
-    },
-    {
-        "id": "identity-ship",
-        "title": {
-            "ko": "변해버린 나를 여전히 '나'라고 부를 수 있을까",
-            "en": "Am I Still the Same Person I Was Yesterday?"
-        },
-        "date": {
-            "ko": "2020년 1월 17일",
-            "en": "January 17, 2020"
-        }
-    },
-    {
-        "id": "meaning-failure",
-        "title": {
-            "en": "Finding Meaning in Failure",
-            "ko": "실패에서 찾는 의미"
-        },
-        "date": {
-            "en": "November 10, 2019",
-            "ko": "2019년 11월 10일"
-        }
-    },
-    {
-        "id": "memory-expiration",
-        "title": {
-            "en": "The Expiration Date of Memories",
-            "ko": "기억의 유효기간"
-        },
-        "date": {
-            "en": "August 30, 2019",
-            "ko": "2019년 8월 30일"
-        }
-    },
-    {
-        "id": "home-language",
-        "title": {
-            "en": "The Silent Language of Home",
-            "ko": "집이라는 공간의 언어"
-        },
-        "date": {
-            "en": "June 12, 2019",
-            "ko": "2019년 6월 12일"
-        }
-    },
-    {
-        "id": "weight-silence",
-        "title": {
-            "ko": "침묵이 가진 깊은 무게",
-            "en": "The Hidden Depth of Silence"
-        },
-        "date": {
-            "ko": "2019년 5월 25일",
-            "en": "May 25, 2019"
-        }
-    },
-    {
-        "id": "joy-stillness",
-        "title": {
-            "ko": "정적이 주는 고요한 기쁨",
-            "en": "The Quiet Joy of Stillness"
-        },
-        "date": {
-            "ko": "2019년 4월 7일",
-            "en": "April 07, 2019"
-        }
-    },
-    {
-        "id": "habit-architecture",
-        "title": {
-            "ko": "습관이라는 이름의 구조물",
-            "en": "The Architecture of Habits"
-        },
-        "date": {
-            "ko": "2019년 2월 22일",
-            "en": "February 22, 2019"
-        }
-    },
-    {
-        "id": "value-smalltalk",
-        "title": {
-            "en": "The Value of Small Talk",
-            "ko": "사소한 대화의 가치"
-        },
-        "date": {
-            "en": "January 14, 2019",
-            "ko": "2019년 1월 14일"
-        }
-    },
-    {
-        "id": "art-waiting",
-        "title": {
-            "ko": "기다림의 예술",
-            "en": "The Art of Waiting"
-        },
-        "date": {
-            "ko": "2018년 12월 7일",
-            "en": "December 07, 2018"
-        }
-    },
-    {
-        "id": "philosophy-walking",
-        "title": {
-            "ko": "걷기의 철학",
-            "en": "The Philosophy of Walking"
-        },
-        "date": {
-            "ko": "2018년 11월 7일",
-            "en": "November 07, 2018"
-        }
-    },
-    {
-        "id": "mirror-nature",
-        "title": {
-            "en": "The Mirror of Nature",
-            "ko": "자연이라는 거울"
-        },
-        "date": {
-            "en": "October 01, 2018",
-            "ko": "2018년 10월 1일"
-        }
-    },
-    {
-        "id": "simplicity-wisdom",
-        "title": {
-            "en": "Wisdom in Simplicity",
-            "ko": "단순함 속에 깃든 지혜"
-        },
-        "date": {
-            "en": "July 17, 2018",
-            "ko": "2018년 7월 17일"
-        }
-    },
-    {
-        "id": "fear-death",
-        "title": {
-            "en": "Why Death Makes Life Worth Living",
-            "ko": "죽음이 있기에 삶은 더 빛난다"
-        },
-        "date": {
-            "en": "June 27, 2018",
-            "ko": "2018년 6월 27일"
-        }
-    },
-    {
-        "id": "gift-listening",
-        "title": {
-            "ko": "경청이라는 이름의 선물",
-            "en": "The Gift of Listening"
-        },
-        "date": {
-            "ko": "2018년 4월 18일",
-            "en": "April 18, 2018"
-        }
-    },
-    {
-        "id": "alchemy-forgiveness",
-        "title": {
-            "ko": "용서의 연금술",
-            "en": "The Alchemy of Forgiveness"
-        },
-        "date": {
-            "ko": "2018년 2월 28일",
-            "en": "February 28, 2018"
-        }
-    },
-    {
-        "id": "start-small",
-        "title": {
-            "ko": "작게 시작할 용기",
-            "en": "The Courage to Start Small"
-        },
-        "date": {
-            "ko": "2018년 2월 4일",
-            "en": "February 04, 2018"
-        }
-    },
-    {
-        "id": "wisdom-insecurity",
-        "title": {
-            "ko": "불안과 함께 사는 법",
-            "en": "The Wisdom of Insecurity"
-        },
-        "date": {
-            "ko": "2017년 12월 2일",
-            "en": "December 02, 2017"
-        }
-    },
-    {
-        "id": "wisdom-regret",
-        "title": {
-            "ko": "후회가 주는 지혜",
-            "en": "The Wisdom of Regret"
-        },
-        "date": {
-            "ko": "2017년 10월 11일",
-            "en": "October 11, 2017"
-        }
-    },
-    {
-        "id": "art-creation",
-        "title": {
-            "ko": "인간은 왜 아름다움에 집착하는가",
-            "en": "Why We Never Stop Creating Beauty"
-        },
-        "date": {
-            "ko": "2017년 8월 4일",
-            "en": "August 04, 2017"
+            "en": "June 22, 2024",
+            "ko": "2024년 6월 22일"
         }
     },
     {
         "id": "right-not-choose",
         "title": {
-            "ko": "선택하지 않을 권리",
-            "en": "The Right to Not Choose"
+            "ko": "선택하지 않을 권리, 중립이 주는 통찰",
+            "en": "The Vital Right Not to Choose a Side"
         },
         "date": {
-            "ko": "2017년 7월 19일",
-            "en": "July 19, 2017"
+            "ko": "2024년 5월 14일",
+            "en": "May 14, 2024"
+        }
+    },
+    {
+        "id": "art-letting-go",
+        "title": {
+            "ko": "움켜쥔 손을 놓아주는 용기",
+            "en": "The Courage to Release Your Grip"
+        },
+        "date": {
+            "ko": "2024년 5월 4일",
+            "en": "May 04, 2024"
+        }
+    },
+    {
+        "id": "need-boredom",
+        "title": {
+            "ko": "우리에게 때로 지루함이 절실한 이유",
+            "en": "Why We Must Embrace Boredom"
+        },
+        "date": {
+            "ko": "2024년 4월 23일",
+            "en": "April 23, 2024"
+        }
+    },
+    {
+        "id": "meaning-failure",
+        "title": {
+            "en": "Reinterpreting the Meaning of Failure",
+            "ko": "실패라는 경험을 다시 정의하기"
+        },
+        "date": {
+            "en": "April 04, 2024",
+            "ko": "2024년 4월 4일"
+        }
+    },
+    {
+        "id": "weight-words",
+        "title": {
+            "en": "The Profound Gravity of Our Words",
+            "ko": "우리가 내뱉는 말에 담긴 묵직한 책임"
+        },
+        "date": {
+            "en": "March 13, 2024",
+            "ko": "2024년 3월 13일"
+        }
+    },
+    {
+        "id": "wisdom-insecurity",
+        "title": {
+            "ko": "불안정한 삶 속에서 평온을 유지하는 법",
+            "en": "Finding Peace Within Insecurity"
+        },
+        "date": {
+            "ko": "2024년 3월 6일",
+            "en": "March 06, 2024"
+        }
+    },
+    {
+        "id": "simplicity-wisdom",
+        "title": {
+            "en": "The Deep Wisdom of a Simple Life",
+            "ko": "단순한 삶이 가르쳐주는 본질의 지혜"
+        },
+        "date": {
+            "en": "February 27, 2024",
+            "ko": "2024년 2월 27일"
+        }
+    },
+    {
+        "id": "empathy-limits",
+        "title": {
+            "en": "The Honest Limits of Human Empathy",
+            "ko": "공감에도 한계가 있다는 사실을 인정하기"
+        },
+        "date": {
+            "en": "January 24, 2024",
+            "ko": "2024년 1월 24일"
+        }
+    },
+    {
+        "id": "concept-enough",
+        "title": {
+            "ko": "충분함, 이미 충분히 가졌다는 안도감",
+            "en": "The Peace of Having Enough"
+        },
+        "date": {
+            "ko": "2023년 12월 16일",
+            "en": "December 16, 2023"
+        }
+    },
+    {
+        "id": "truth-beyond-language",
+        "title": {
+            "ko": "말로는 다 설명할 수 없는 진실들",
+            "en": "Truths That Exist Beyond Language"
+        },
+        "date": {
+            "ko": "2023년 11월 23일",
+            "en": "November 23, 2023"
+        }
+    },
+    {
+        "id": "courage-authenticity",
+        "title": {
+            "en": "The Radical Act of Being Yourself",
+            "ko": "가면을 벗고 온전한 나로 살아가기"
+        },
+        "date": {
+            "en": "November 16, 2023",
+            "ko": "2023년 11월 16일"
+        }
+    },
+    {
+        "id": "habit-architecture",
+        "title": {
+            "ko": "작은 습관이 쌓아 올린 인생의 구조",
+            "en": "The Scaffolding of Our Habits"
+        },
+        "date": {
+            "ko": "2023년 11월 8일",
+            "en": "November 08, 2023"
+        }
+    },
+    {
+        "id": "home-language",
+        "title": {
+            "en": "The Silent Language of Our Spaces",
+            "ko": "우리 공간이 건네는 조용한 말들"
+        },
+        "date": {
+            "en": "October 24, 2023",
+            "ko": "2023년 10월 24일"
+        }
+    },
+    {
+        "id": "listening-body",
+        "title": {
+            "en": "Learning to Speak the Language of Your Body",
+            "ko": "내 몸이 보내는 소리 없는 신호에 답하기"
+        },
+        "date": {
+            "en": "September 18, 2023",
+            "ko": "2023년 9월 18일"
+        }
+    },
+    {
+        "id": "digital-mind",
+        "title": {
+            "ko": "기계에게도 영혼이 깃들 수 있을까",
+            "en": "Can a Machine Ever Have a Soul?"
+        },
+        "date": {
+            "ko": "2023년 9월 3일",
+            "en": "September 03, 2023"
+        }
+    },
+    {
+        "id": "intellectual-humility",
+        "title": {
+            "en": "The Strength of Admitting 'I Don't Know'",
+            "ko": "모른다고 인정할 때 시작되는 성숙"
+        },
+        "date": {
+            "en": "August 17, 2023",
+            "ko": "2023년 8월 17일"
+        }
+    },
+    {
+        "id": "philosophy-walking",
+        "title": {
+            "ko": "걷기, 몸으로 하는 고요한 명상",
+            "en": "Walking as a Physical Meditation"
+        },
+        "date": {
+            "ko": "2023년 8월 4일",
+            "en": "August 04, 2023"
+        }
+    },
+    {
+        "id": "relationship-mirror",
+        "title": {
+            "en": "Relationships as Mirrors of the Self",
+            "ko": "관계라는 거울 속에 비친 내 모습"
+        },
+        "date": {
+            "en": "July 28, 2023",
+            "ko": "2023년 7월 28일"
+        }
+    },
+    {
+        "id": "solitude",
+        "title": {
+            "en": "Discovering Your True Self in Solitude",
+            "ko": "고독, 진정한 나를 만나는 시간"
+        },
+        "date": {
+            "en": "June 18, 2023",
+            "ko": "2023년 6월 18일"
+        }
+    },
+    {
+        "id": "revolution-kindness",
+        "title": {
+            "ko": "다정함, 세상을 바꾸는 가장 조용한 혁명",
+            "en": "Kindness as a Radical Act"
+        },
+        "date": {
+            "ko": "2023년 5월 27일",
+            "en": "May 27, 2023"
+        }
+    },
+    {
+        "id": "solitude-chronology",
+        "title": {
+            "en": "The Evolving Meaning of Solitude Over a Lifetime",
+            "ko": "나이와 함께 변해가는 고독의 의미"
+        },
+        "date": {
+            "en": "April 19, 2023",
+            "ko": "2023년 4월 19일"
+        }
+    },
+    {
+        "id": "digital-connection",
+        "title": {
+            "en": "Finding Human Connection in a Digital Age",
+            "ko": "디지털 시대, 진정한 연결을 갈구하다"
+        },
+        "date": {
+            "en": "March 18, 2023",
+            "ko": "2023년 3월 18일"
+        }
+    },
+    {
+        "id": "digital-minimalism",
+        "title": {
+            "ko": "디지털 소음 속에서 나를 되찾는 기술",
+            "en": "Reclaiming Your Soul from Digital Noise"
+        },
+        "date": {
+            "ko": "2023년 2월 6일",
+            "en": "February 06, 2023"
+        }
+    },
+    {
+        "id": "small-moments",
+        "title": {
+            "ko": "평범한 일상 속의 비범한 의미",
+            "en": "Finding Extraordinary Meanings in Ordinary Moments"
+        },
+        "date": {
+            "ko": "2023년 1월 25일",
+            "en": "January 25, 2023"
+        }
+    },
+    {
+        "id": "mirror-nature",
+        "title": {
+            "en": "What the Wilderness Reflects in Us",
+            "ko": "자연이 우리 내면에 비추는 것들"
+        },
+        "date": {
+            "en": "December 31, 2022",
+            "ko": "2022년 12월 31일"
+        }
+    },
+    {
+        "id": "weight-silence",
+        "title": {
+            "ko": "백 마디 말보다 깊은 침묵의 울림",
+            "en": "The Resonance of Silence Over Words"
+        },
+        "date": {
+            "ko": "2022년 11월 26일",
+            "en": "November 26, 2022"
+        }
+    },
+    {
+        "id": "truth-subjective",
+        "title": {
+            "en": "The Fragility of Our Objective Truth",
+            "ko": "우리가 믿는 진실은 얼마나 객관적인가"
+        },
+        "date": {
+            "en": "November 16, 2022",
+            "ko": "2022년 11월 16일"
+        }
+    },
+    {
+        "id": "mirror-books",
+        "title": {
+            "ko": "책을 읽는다는 것은 나를 대면하는 일이다",
+            "en": "Reading as an Act of Self-Mirroring"
+        },
+        "date": {
+            "ko": "2022년 10월 31일",
+            "en": "October 31, 2022"
+        }
+    },
+    {
+        "id": "joy-stillness",
+        "title": {
+            "ko": "정적 속에서 발견하는 영혼의 기쁨",
+            "en": "The Sustaining Joy of Stillness"
+        },
+        "date": {
+            "ko": "2022년 10월 12일",
+            "en": "October 12, 2022"
+        }
+    },
+    {
+        "id": "weight-expectations",
+        "title": {
+            "en": "The Heavy Armor of Others' Expectations",
+            "ko": "타인의 기대라는 무거운 갑옷"
+        },
+        "date": {
+            "en": "October 02, 2022",
+            "ko": "2022년 10월 2일"
+        }
+    },
+    {
+        "id": "value-rituals",
+        "title": {
+            "ko": "나를 붙들어주는 일상의 작은 의식들",
+            "en": "Finding Stability in Personal Rituals"
+        },
+        "date": {
+            "ko": "2022년 8월 29일",
+            "en": "August 29, 2022"
+        }
+    },
+    {
+        "id": "why-art",
+        "title": {
+            "ko": "우리 영혼이 끊임없이 예술을 찾는 이유",
+            "en": "Why Our Souls Hunger for Art"
+        },
+        "date": {
+            "ko": "2022년 8월 22일",
+            "en": "August 22, 2022"
+        }
+    },
+    {
+        "id": "gift-listening",
+        "title": {
+            "ko": "누군가의 말을 온전히 들어준다는 것",
+            "en": "Deep Listening as a Sacred Gift"
+        },
+        "date": {
+            "ko": "2022년 7월 13일",
+            "en": "July 13, 2022"
+        }
+    },
+    {
+        "id": "fast-mindfulness",
+        "title": {
+            "ko": "빠른 세상 속에서 느리게 숨 쉬기",
+            "en": "Slow Breathing in a Frantic World"
+        },
+        "date": {
+            "ko": "2022년 6월 8일",
+            "en": "June 08, 2022"
+        }
+    },
+    {
+        "id": "art-creation",
+        "title": {
+            "ko": "인간은 왜 끊임없이 아름다움을 만드는가",
+            "en": "Our Human Obsession with Beauty"
+        },
+        "date": {
+            "ko": "2022년 5월 6일",
+            "en": "May 06, 2022"
+        }
+    },
+    {
+        "id": "resilience-soul",
+        "title": {
+            "en": "The Unbreakable Resilience of the Soul",
+            "ko": "영혼의 회복탄력성, 다시 일어서는 힘"
+        },
+        "date": {
+            "en": "April 08, 2022",
+            "ko": "2022년 4월 8일"
+        }
+    },
+    {
+        "id": "beauty-temporary",
+        "title": {
+            "en": "The Poignant Beauty of the Temporary",
+            "ko": "사라져가는 것들이 가진 애틋한 아름다움"
+        },
+        "date": {
+            "en": "March 30, 2022",
+            "ko": "2022년 3월 30일"
+        }
+    },
+    {
+        "id": "value-smalltalk",
+        "title": {
+            "en": "The Understated Importance of Small Talk",
+            "ko": "가벼운 대화가 관계를 지탱하는 힘"
+        },
+        "date": {
+            "en": "March 11, 2022",
+            "ko": "2022년 3월 11일"
+        }
+    },
+    {
+        "id": "wisdom-regret",
+        "title": {
+            "ko": "후회가 우리에게 건네는 뒤늦은 지혜",
+            "en": "The Unexpected Wisdom Within Our Regrets"
+        },
+        "date": {
+            "ko": "2022년 3월 1일",
+            "en": "March 01, 2022"
+        }
+    },
+    {
+        "id": "uncertainty-path",
+        "title": {
+            "ko": "불확실성과 함께 걷는 법",
+            "en": "The Art of Walking with Uncertainty"
+        },
+        "date": {
+            "ko": "2022년 2월 14일",
+            "en": "February 14, 2022"
+        }
+    },
+    {
+        "id": "true-happiness",
+        "title": {
+            "ko": "행복과 의미 사이의 위태로운 균형",
+            "en": "The Fragile Balance Between Happiness and Meaning"
+        },
+        "date": {
+            "ko": "2022년 1월 29일",
+            "en": "January 29, 2022"
+        }
+    },
+    {
+        "id": "beauty-imperfection",
+        "title": {
+            "ko": "불완전한 것들이 가진 고유한 매력",
+            "en": "The Aesthetic of Imperfection"
+        },
+        "date": {
+            "ko": "2021년 12월 31일",
+            "en": "December 31, 2021"
+        }
+    },
+    {
+        "id": "unfinished-thoughts",
+        "title": {
+            "en": "The Freedom of Unfinished Thoughts",
+            "ko": "마침표 찍지 않은 생각들이 주는 자유"
+        },
+        "date": {
+            "en": "December 08, 2021",
+            "ko": "2021년 12월 8일"
+        }
+    },
+    {
+        "id": "start-small",
+        "title": {
+            "ko": "작게 시작하는 것들이 가진 위대한 힘",
+            "en": "The Quiet Power of Starting Small"
+        },
+        "date": {
+            "ko": "2021년 11월 1일",
+            "en": "November 01, 2021"
+        }
+    },
+    {
+        "id": "art-waiting",
+        "title": {
+            "ko": "기다림, 그 정지된 시간의 능동적인 가치",
+            "en": "Waiting as an Active State of Being"
+        },
+        "date": {
+            "ko": "2021년 9월 25일",
+            "en": "September 25, 2021"
+        }
+    },
+    {
+        "id": "nature-growth",
+        "title": {
+            "en": "The Non-Linear Nature of Personal Growth",
+            "ko": "성장은 결코 일직선으로 일어나지 않는다"
+        },
+        "date": {
+            "en": "August 21, 2021",
+            "ko": "2021년 8월 21일"
+        }
+    },
+    {
+        "id": "philosophy-aging",
+        "title": {
+            "ko": "나이 듦, 사유가 깊어지는 수확의 계절",
+            "en": "Aging as a Process of Deepening Wisdom"
+        },
+        "date": {
+            "ko": "2021년 8월 5일",
+            "en": "August 05, 2021"
+        }
+    },
+    {
+        "id": "language-shadows",
+        "title": {
+            "en": "Learning the Subtle Language of Our Shadows",
+            "ko": "내면의 그림자가 속삭이는 말들"
+        },
+        "date": {
+            "en": "July 07, 2021",
+            "ko": "2021년 7월 7일"
         }
     }
 ]
